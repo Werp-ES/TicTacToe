@@ -1,4 +1,3 @@
-package tresEnRaya;
 
 import java.util.Scanner;
 
