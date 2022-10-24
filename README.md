@@ -1,2 +1,4 @@
 # TicTacToe
-Es el tres en raya de toda la vida en java. Planeo añadirle una dificultad imposible
+Es el tres en raya de toda la vida, pero escrito en java. Es para ejecutar en consola. 
+
+Tic Tac Toe  in java.  It's expected to be executed in console.
